@@ -7,7 +7,7 @@ In this repository, we include some basic implementations of Diffusion models as
 
 2. You need to have the following directories for training on the Cars dataset
     parent_dir
-    ``
+    ```
     
     
     .
@@ -19,8 +19,8 @@ In this repository, we include some basic implementations of Diffusion models as
     ├── LICENSE
     └── README.md
     
-    ``
-    ``
+    ```
+    ```
     
       |
       |---- gen_images # for the generated images
@@ -29,7 +29,7 @@ In this repository, we include some basic implementations of Diffusion models as
       |
       |---- data # for the dataset (note please recheck this in the .ipynb)
       
-   ``
+   ```
 
 # How to run training?
 

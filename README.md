@@ -8,12 +8,27 @@ In this repository, we include some basic implementations of Diffusion models as
 2. You need to have the following directories for training on the Cars dataset
     parent_dir
     ``
+    
+    
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
+    
+    ``
+    ``
+    
       |
       |---- gen_images # for the generated images
       |
       |---- model_checkpoints # for saving the model_checkpoints during training
       |
       |---- data # for the dataset (note please recheck this in the .ipynb)
+      
    ``
 
 # How to run training?

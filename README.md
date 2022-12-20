@@ -21,3 +21,8 @@ In this repository, we include some basic implementations of Diffusion models as
 # How to run training / inference?
 
 For the FashionMNIST dataset, please refer to ``Code_DDPM_MNIST_Fashion.ipynb`` file and for training the larger model for the Cars dataset, please refer to the ``DDPM_cars.ipynb`` notebook. Other instructions can be found in the relevant notebooks.
+
+# Links for the trained models.
+
+> For the FashionMNIST dataset : [FashionMNIST model](https://drive.google.com/file/d/10XeDbPmLpgALlbB4BXJUd-vN_PPEgBqI/view?usp=sharing)
+> For the Cars dataset : [Stanford Card Dataset](https://drive.google.com/file/d/1-HxXqshIfaFCchl4Or6dgeEEwzgWM9Wn/view?usp=sharing)

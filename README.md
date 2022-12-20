@@ -6,22 +6,9 @@ In this repository, we include some basic implementations of Diffusion models as
 1. Download the relevant Datasets (we used the Stanford Cars dataset and the FashionMNIST dataset). The stanford cars dataset can be found at [Stanford Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html).
 
 2. You need to have the following directories for training on the Cars dataset
+
+    ```
     parent_dir
-    ```
-    
-    
-    .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
-    
-    ```
-    ```
-    
       |
       |---- gen_images # for the generated images
       |

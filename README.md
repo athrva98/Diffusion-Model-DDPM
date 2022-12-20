@@ -26,3 +26,9 @@ For the FashionMNIST dataset, please refer to ``Code_DDPM_MNIST_Fashion.ipynb`` 
 
 > For the FashionMNIST dataset : [FashionMNIST model](https://drive.google.com/file/d/10XeDbPmLpgALlbB4BXJUd-vN_PPEgBqI/view?usp=sharing)
 > For the Cars dataset : [Stanford Card Dataset](https://drive.google.com/file/d/1-HxXqshIfaFCchl4Or6dgeEEwzgWM9Wn/view?usp=sharing)
+
+
+# Visualizations
+
+![](https://github.com/athrva98/Diffusion-Model-DDPM/blob/main/mnist_generated.png)
+![](https://github.com/athrva98/Diffusion-Model-DDPM/blob/main/cars.png)

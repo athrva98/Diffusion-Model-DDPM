@@ -18,6 +18,6 @@ In this repository, we include some basic implementations of Diffusion models as
       
    ```
 
-# How to run training?
+# How to run training / inference?
 
 For the FashionMNIST dataset, please refer to ``Code_DDPM_MNIST_Fashion.ipynb`` file and for training the larger model for the Cars dataset, please refer to the ``DDPM_cars.ipynb`` notebook. Other instructions can be found in the relevant notebooks.

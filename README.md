@@ -7,15 +7,15 @@ In this repository, we include some basic implementations of Diffusion models as
 
 2. You need to have the following directories for training on the Cars dataset
     parent_dir
-    ''
+    ``
       |
       |---- gen_images # for the generated images
       |
       |---- model_checkpoints # for saving the model_checkpoints during training
       |
       |---- data # for the dataset (note please recheck this in the .ipynb)
-   ''
+   ``
 
 # How to run training?
 
-For the FashionMNIST dataset, please refer to ''Code_DDPM_MNIST_Fashion.ipynb'' file and for training the larger model for the Cars dataset, please refer to the ''DDPM_cars.ipynb'' notebook. Other instructions can be found in the relevant notebooks.
+For the FashionMNIST dataset, please refer to ``Code_DDPM_MNIST_Fashion.ipynb`` file and for training the larger model for the Cars dataset, please refer to the ``DDPM_cars.ipynb`` notebook. Other instructions can be found in the relevant notebooks.
